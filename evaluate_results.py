@@ -3,7 +3,7 @@ from sklearn.metrics import classification_report, accuracy_score
 from src.stress_inference import get_stress_from_text
 import time
 
-def evaluate_model(csv_path="data/passenger_stress_data.csv"):
+def evaluate_model(csv_path="data/dataset_complet.csv"):
     print(f"📂 Chargement des données depuis {csv_path}...")
     try:
         df = pd.read_csv(csv_path)

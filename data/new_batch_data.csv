@@ -1,0 +1,23 @@
+﻿text,stress_label
+"Mon mari fait un malaise, il me faut un médecin tout de suite !",Stress_fort
+"Il y a une odeur de brûlé en cabine, on a peur !",Stress_fort
+"There is a medical emergency at gate D4, please help!",Stress_fort
+أشعر بضيق في التنفس، ساعدوني بسرعة!,Stress_fort
+"L'avion bouge trop, j'ai une crise de panique.",Stress_fort
+"On m'a volé mon passeport, je ne peux pas embarquer !",Stress_fort
+"This is totally unacceptable, I will call the police.",Stress_fort
+L'application plante à chaque fois que je veux payer.,Stress_moyen
+Je n'arrive pas à choisir mon siège sur le site web.,Stress_moyen
+"Le Wi-Fi ne marche pas, c'est embêtant pour mon travail.",Stress_moyen
+"My vegetarian meal was not served, can you check?",Stress_moyen
+هل يمكنني استرجاع ثمن التذكرة؟,Stress_moyen
+Je ne trouve pas de prise électrique pour charger mon téléphone.,Stress_moyen
+Mon écran tactile est cassé au siège 14B.,Stress_moyen
+I didn't receive my booking confirmation email.,Stress_moyen
+"La climatisation est trop forte, il fait froid.",Stress_moyen
+"Le personnel a été adorable avec mes enfants, merci.",Stress_faible
+"Super atterrissage, bravo au pilote.",Stress_faible
+Thanks for the upgrade to Business Class!,Stress_faible
+"Les toilettes sont très propres, c'est appréciable.",Stress_faible
+شكرا على الوجبة اللذيذة.,Stress_faible
+L'embarquement était très rapide et organisé aujourd'hui.,Stress_faible
