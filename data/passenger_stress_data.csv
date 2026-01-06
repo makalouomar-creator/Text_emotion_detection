@@ -1,0 +1,46 @@
+text,stress_label
+"C'est inadmissible, mon vol a 3 heures de retard !",Stress_fort
+"I am going to miss my connection, this is a nightmare!",Stress_fort
+أين حقائبي؟ لقد انتظرت أكثر من ساعة!,Stress_fort
+"Personne ne me répond, je suis perdu dans l'aéroport.",Stress_fort
+"This service is terrible, I want a refund immediately.",Stress_fort
+ساعدني، لقد فقدت جواز سفري!,Stress_fort
+"Je vais porter plainte contre la compagnie, c'est honteux.",Stress_fort
+"My child is sick, I need a doctor now!",Stress_fort
+لقد ألغيت رحلتي دون سابق إنذار، هذا غير مقبول.,Stress_fort
+"Il n'y a personne au guichet, je vais rater mon avion !",Stress_fort
+Where is the manager? I need to speak to someone in charge!,Stress_fort
+لقد سرقت محفظتي في قاعة الانتظار!,Stress_fort
+"C'est la pire expérience de ma vie, plus jamais la RAM.",Stress_fort
+I've been stuck on the tarmac for 2 hours with no water.,Stress_fort
+أشعر بضيق في التنفس، ساعدوني.,Stress_fort
+Pouvez-vous me dire où se trouve la porte D4 ?,Stress_moyen
+Is the flight on time? I'm a bit worried.,Stress_moyen
+كم من الوقت يستغرق المرور عبر الأمن؟,Stress_moyen
+Je ne trouve pas mon billet électronique sur l'application.,Stress_moyen
+"The queue is very long, will I make it?",Stress_moyen
+هل هناك مكان لشحن هاتفي؟,Stress_moyen
+Est-ce que mes bagages suivent automatiquement à Casablanca ?,Stress_moyen
+How do I connect to the airport Wi-Fi?,Stress_moyen
+هل سيتم تقديم وجبة نباتية على متن الطائرة؟,Stress_moyen
+"J'ai une correspondance courte de 40 minutes, c'est suffisant ?",Stress_moyen
+Can I upgrade my seat to business class?,Stress_moyen
+لا أجد الشاشة الخاصة برحلي.,Stress_moyen
+Où sont les toilettes les plus proches ?,Stress_moyen
+Is there a lounge access for economy passengers?,Stress_moyen
+كم سعر الوزن الزائد للحقيبة؟,Stress_moyen
+"Merci beaucoup pour votre aide, c'est très clair.",Stress_faible
+"Great service, everything went smoothly.",Stress_faible
+شكرا جزيلا، الرحلة كانت مريحة.,Stress_faible
+"J'ai hâte de décoller, tout est prêt.",Stress_faible
+"The lounge is very relaxing, thank you.",Stress_faible
+أين يمكنني شراء القهوة؟,Stress_faible
+Le personnel de bord était très aimable.,Stress_faible
+"Just landed in New York, smooth flight.",Stress_faible
+أحب الشاي المغربي الذي تقدمونه.,Stress_faible
+"L'application est très pratique, merci.",Stress_faible
+"Can I have a blanket, please?",Stress_faible
+كل شيء على ما يرام، شكراً.,Stress_faible
+J'aime beaucoup la musique d'ambiance.,Stress_faible
+Boarding was very fast today.,Stress_faible
+الجو جميل في الدار البيضاء.,Stress_faible
